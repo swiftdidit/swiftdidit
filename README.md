@@ -1,4 +1,9 @@
-### Hi there 👋
+# Known Language
+Java
+
+# Contact
+Feel free to reach me anytime! Always ready for something exciting.
+### Discord: fleekinq
 
 <!--
 **swiftdidit/swiftdidit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
