@@ -1,16 +1,18 @@
 # Known Language
-Java
+I am best when working with the 'C' Language
+C, Java, PHP, Python, JavaScript, TypeScript, HTML, CSS etc..
 
 # Contact
-Feel free to reach me anytime! Always ready for something exciting.
-### Discord: fleekinq
+FOR INTERNET SAFETY REASONS: I do not provide my contact here, reach out to me in a discussion.
+Feel free to tag me anytime in a discussion. Always ready for something exciting.
+
+- 🔭 I’m currently working on my 3D Game Engine for TAV Studios.
 
 <!--
 **swiftdidit/swiftdidit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
